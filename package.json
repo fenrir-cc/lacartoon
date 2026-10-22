@@ -1,0 +1,23 @@
+{
+  "name": "stremio-lacartoons",
+  "version": "1.0.0",
+  "description": "Stremio Addon para LACartoons con caricaturas clásicas en audio latino",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test_scraper_module.js"
+  },
+  "keywords": [
+    "stremio",
+    "addon",
+    "lacartoons",
+    "cartoons",
+    "series"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
